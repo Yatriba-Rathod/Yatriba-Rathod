@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yatriba Rathod
 - 👀 I’m interested in coding and brain storming things.
-- 🌱 I’m currently learning C Language and web development
-- 💞️ Currently won't collaborate with anyone professionally.
+- 🌱 I’m currently learning Java and UI/UX.
 - 📫 Contact me on my gmail - yatriba.rathod@gmail.com
 
 <!---
