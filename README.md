@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yatriba Rathod
 - 👀 I’m interested in coding and brain storming things.
-- 🌱 I’m currently learning Java and UI/UX.
+- 🌱 I’m currently learning Java.
 - 📫 Contact me on my gmail - yatriba.rathod@gmail.com
 
 <!---
